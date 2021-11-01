@@ -2,6 +2,7 @@ backend:
   name: github
   repo: mschaeffner/jekyll-test # Path to your GitHub repository
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: thirsty-albattani-0d9448.netlify.app
 
 # This line should *not* be indented
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
@@ -19,4 +20,3 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
-
