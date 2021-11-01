@@ -23,6 +23,6 @@ collections:
         name: "categories"
         widget: "select"
         options:
-          - { label: "Chicago", value: "ORD" }
-          - { label: "Paris", value: "CDG" }
-          - { label: "Tokyo", value: "HND" }
+          - { label: "Politics", value: "Politics" }
+          - { label: "Sports", value: "Sports" }
+          - { label: "Nature", value: "Nature" }
