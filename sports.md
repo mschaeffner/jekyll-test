@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Test
+title: Sports
 permalink: /sports/
 category: sports
 ---

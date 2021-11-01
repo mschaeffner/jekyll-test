@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Test
+title: Nature
 permalink: /nature/
 category: nature
 ---
