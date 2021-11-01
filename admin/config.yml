@@ -23,6 +23,6 @@ collections:
         name: "categories"
         widget: "select"
         options:
-          - { label: "Politics", value: "Politics" }
-          - { label: "Sports", value: "Sports" }
-          - { label: "Nature", value: "Nature" }
+          - { label: "Politics", value: "politics" }
+          - { label: "Sports", value: "sports" }
+          - { label: "Nature", value: "nature" }
