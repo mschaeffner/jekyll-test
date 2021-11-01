@@ -30,7 +30,6 @@ collections:
       - label: "Body"
         name: "body"
         widget: "markdown"
-
       - label: "Categories"
         name: "categories"
         widget: "select"
