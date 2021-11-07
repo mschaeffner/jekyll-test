@@ -44,6 +44,8 @@ plugins:
 
 header_pages:
   - politics.md
-  - nature.md
-  - sports.md
+  - science.md
+  - health.md
+  - economy.md
+  - law.md
   - about.md
