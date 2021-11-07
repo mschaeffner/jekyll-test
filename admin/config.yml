@@ -18,11 +18,13 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: "Categories"
         name: "categories"
         widget: "select"
         options:
           - { label: "Politics", value: "politics" }
-          - { label: "Sports", value: "sports" }
-          - { label: "Nature", value: "nature" }
+          - { label: "Science", value: "science" }
+          - { label: "Health", value: "health" }
+          - { label: "Economy", value: "economy" }
+          - { label: "Law", value: "law" }
+      - {label: "Body", name: "body", widget: "markdown"}
